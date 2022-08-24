@@ -2,3 +2,6 @@
 
 - [matplotlib](/matplotlib)
 - [manim](/manim)
+- [numpy](/numpy)
+- [tensorflow](/tensorflow)
+
